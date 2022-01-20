@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../vprofile-project"
+		},
+		{
+			"name": "ansible-aws-vpc",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
